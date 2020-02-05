@@ -15,7 +15,7 @@
 
 	<servlet-mapping>
     	<servlet-name>DearFriendServer</servlet-name>
-	  	<url-pattern>/Controller</url-pattern>
+	  	<url-pattern>/DearFriendServer/Controller</url-pattern>
   	</servlet-mapping>
   	
 	<servlet-mapping>
