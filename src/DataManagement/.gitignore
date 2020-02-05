@@ -1,0 +1,12 @@
+/AbstractMessage$MessageType.class
+/AbstractMessage.class
+/DataManager.class
+/FileMessage.class
+/ImageMessage.class
+/TextMessage.class
+/DynamicDataManager$1.class
+/DynamicDataManager.class
+/NoUserException.class
+/MsgPacket.class
+/MessageComparator.class
+/DatabaseSignaturePacket.class
